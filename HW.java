@@ -1,4 +1,4 @@
-public class HW5 {
+public class HW {
     public static void main(String[] args) {
         phoneBook phoneBook = new phoneBook();
         phoneBook.add("123456789", "Алиса");
